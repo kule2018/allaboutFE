@@ -129,6 +129,15 @@ margin:auto;
  
 ```
 
+```css
+.main{
+  display：flex;
+  flex:1;
+  align-items:center;
+  justify-content:center;
+}
+```
+
 
 
 ## 两栏布局
